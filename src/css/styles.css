@@ -1,0 +1,27 @@
+.botton{
+    color:white;
+    background-color: blue;
+  }
+  .bottonElimminar{
+    color:white;
+    background-color: red;
+  }
+  .bottonEActualizar{
+    color:white;
+    background-color: green;
+  }
+  table, td {
+    border:1px solid black;
+  }
+  table {
+    width:50%;
+  }
+  td {
+    padding:5px;
+  }
+  .tablaCentrada{
+    margin: auto;
+}
+.centrarColumna {
+text-align: center;
+}
